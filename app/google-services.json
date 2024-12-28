@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695311888984",
+    "project_id": "projectptc-b8571",
+    "storage_bucket": "projectptc-b8571.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695311888984:android:1101066b8c8f6a7371d02d",
+        "android_client_info": {
+          "package_name": "com.example.projectptc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Li0krV16OVEG1oOWBc4-h0oj7wtQ344"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

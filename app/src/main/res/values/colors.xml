@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hijau_limau">#2091AA9D</color>
+    <color name="hijau_limau2">#91AA9D</color>
+    <color name="lime_green">#414E47</color>
+    <color name="merah_pucat">#10FFF4F4</color>
+</resources>
